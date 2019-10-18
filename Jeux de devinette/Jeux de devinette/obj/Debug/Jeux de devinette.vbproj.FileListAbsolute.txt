@@ -1,0 +1,21 @@
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.exe.config
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux_de_devinette.Form1.resources
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux_de_devinette.Resources.resources
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.vbproj.GenerateResource.Cache
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.exe
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.pdb
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.xml
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.exe
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.xml
+E:\ICS20\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.pdb
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.exe.config
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.exe
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.pdb
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\bin\Debug\Jeux de devinette.xml
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.vbprojAssemblyReference.cache
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux_de_devinette.Form1.resources
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux_de_devinette.Resources.resources
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.vbproj.GenerateResource.cache
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.exe
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.xml
+C:\Users\Uzuma\Desktop\Ralph Tchinda\Chapitre 1\Jeux de devinette\Jeux de devinette\obj\Debug\Jeux de devinette.pdb
